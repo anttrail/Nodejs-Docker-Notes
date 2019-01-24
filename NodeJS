@@ -1,0 +1,2 @@
+pm2 start index.js --watch  ==> keep index.js alive and monitor the changes
+pm2 logs ==> show the output
