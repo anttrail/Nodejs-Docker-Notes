@@ -2,8 +2,20 @@ pm2 start index.js --watch  ==> keep index.js alive and monitor the changes
 pm2 logs ==> show the output
 pkill -f xxxxxx
 
+Unoconv 缺字形問題
+
 文泉驛 linux-chinese font : 
 - 點陣宋體 xfonts-wqy
 - 正黑體 ttf-wqy-zenhei
 - 微米黑體 ttf-wqy-microhei
 sudo apt-get install xfonts-wqy ttf-wqy-zenhei ttf-wqy-microhei
+
+AR PL UKai CN
+AR PL UKai HK
+AR PL UKai TW
+AR PL UKai TW MBE
+AR PL UMing CN
+AR PL UMing HK
+AR PL UMing TW
+AR PL UMing TW MBE 
+sudo apt-get install fonts-arphic*
